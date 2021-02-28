@@ -9,6 +9,7 @@
 #pragma once
 
 #include "easyx.h"
+#include <ctime>
 
 // 兼容 initgraph 绘图模式的宏定义（无实际意义）
 #define DETECT	0

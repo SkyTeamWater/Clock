@@ -1,5 +1,4 @@
 ﻿#include "graphics.h"		// 引用图形库头文件
-#include <ctime>
 
 int main() {
 	initgraph(400, 500);	// 创建绘图窗口，大小为 640x480 像素
