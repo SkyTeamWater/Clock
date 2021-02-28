@@ -17,5 +17,5 @@ int main() {
 		settextstyle(32, 0, _T("Consolas"));
 		outtextxy(60, 200, s);
 	}
-	closegraph();		// 关闭绘图窗口
+	closegraph();		 // 关闭绘图窗口
 }
